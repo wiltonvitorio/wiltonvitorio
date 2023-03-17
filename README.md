@@ -5,6 +5,7 @@
 [![faceboock](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wiltonejana.vitorio)
 [![site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lgpdparaigrejas.webnode.page/)
 
+
 ![wilton GitHub stats](https://github-readme-stats.vercel.app/api?username=wiltonvitorio&show_icons=true&theme=radical)
 
 ### TECNOLOGIAS UTILIZADAS
@@ -14,6 +15,10 @@
 <img align= "center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img align= "center" alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align= "center" alt="css" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
+<img align= "center" alt="css" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align= "center" alt="css" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+<img align= "center" alt="css" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img align= "center" alt="css" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 </div></BR>
 
 ### EM DESENVOLVIMENTO
@@ -24,3 +29,4 @@
 <img align= "center" alt="css" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 <img align= "center" alt="css" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div>
+
